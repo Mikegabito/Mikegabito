@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nelson Maida</h1>
-<h3 align="center">I am a Data Analyst & AI with a strong background in logistics, quality management, and process optimization.</h3>
+<h3 align="center">I am a Data Analyst & AI with a strong background in logistics, quality management, and process optimization.
+I am currently expanding my technical skills through the Data Analyst & AI program, focusing on Python, SQL, data modeling, API integration, machine learning foundations, and AI-driven automation. I am also the founder of Yaidea Cloud Ltd, a startup that develops automation and AI solutions for small and medium businesses.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mikegabito&label=Profile%20views&color=0e75b6&style=flat" alt="mikegabito" /> </p>
 
@@ -9,15 +10,22 @@
 
 - 👯 I’m looking to collaborate on **Data Projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Mikegabito](https://github.com/Mikegabito)
+- 👨‍💻 All of my projects are available at [https://github.com/Mikegabito](https://github.com/Mikegabito) This repository includes exercises, projects, and scripts developed during my progression as a Data Analyst & AI trainee. It aims to showcase my growth in:
+Writing clean Python code
+Solving analytical problems
+Building automation logic
+Working with data step by step
+Applying version control with Git and GitHub
 
 - 📝 I regularly write articles on [www.yaideacloudltd.com](www.yaideacloudltd.com)
 
 - 💬 Ask me about **Prompt Engineering**
 
-- 📫 How to reach me **yaideacloudltd@gmail.com**
+- 📫 How to reach me **yaideacloudltd@gmail.com** 
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/nelson-a-campos-maida-255a6945](https://www.linkedin.com/in/nelson-a-campos-maida-255a6945)
+- 📄 Know about my experiences [https://www.linkedin.com/in/nelson-a-campos-maida-255a6945](https://www.linkedin.com/in/nelson-a-campos-maida-255a6945) Career Goals 
+I am transitioning into data-focused technical roles where I can combine:
+Data Analysis, Process Automation, AI-Driven Solutions, Operational Efficiency, My goal is to contribute to teams that value structured reasoning, reliable data pipelines, and analytical thinking.
 
 - ⚡ Fun fact **I love Metal Music**
 
