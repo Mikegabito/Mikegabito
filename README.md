@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nelson Maida</h1>
 <h3 align="center">I am a Data Analyst & AI with a strong background in logistics, quality management, and process optimization.
-I am currently expanding my technical skills through the Data Analyst & AI program, focusing on Python, SQL, data modeling, API integration, machine learning foundations, and AI-driven automation. I am also the founder of Yaidea Cloud Ltd, a startup that develops automation and AI solutions for small and medium businesses.</h3>
+I am currently expanding my technical skills through the Data Analyst & AI program, focusing on Python, SQL, data modeling, and AI-driven solutions. I am also the founder of Yaidea Cloud Ltd, a startup that develops automation and AI solutions for small and medium businesses.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mikegabito&label=Profile%20views&color=0e75b6&style=flat" alt="mikegabito" /> </p>
 
