@@ -4,7 +4,7 @@ I am currently expanding my technical skills through the Data Analyst & AI progr
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mikegabito&label=Profile%20views&color=0e75b6&style=flat" alt="mikegabito" /> </p>
 
-- 🔭 I’m currently working on [Course Project](https://github.com/DATA-TEAM1/SQL-Team-project)
+- 🔭 I’m finish my project you could check it here: [Course Project](https://github.com/Mikegabito/dataprojectdevelhope-)
 
 - 🌱 I’m currently learning **Data Science**
 
